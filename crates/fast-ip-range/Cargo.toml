@@ -1,0 +1,15 @@
+[package]
+name = "fast-ip-range"
+version = "0.1.0"
+authors = ["François Palmier"]
+license = "ISC"
+edition = "2021"
+exclude = ["index.node"]
+
+[lib]
+crate-type = ["cdylib"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+neon = "1"
