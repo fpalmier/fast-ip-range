@@ -1,7 +1,7 @@
 {
   "name": "@fast-ip-range/darwin-arm64",
   "description": "Prebuilt binary package for `fast-ip-range` on `darwin-arm64`.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "os": [
     "darwin"
   ],
