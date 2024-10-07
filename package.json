@@ -1,7 +1,7 @@
 {
   "name": "fast-ip-range",
   "version": "1.0.0",
-  "description": "",
+  "description": "Fast IP range checking",
   "main": "./lib/index.cjs",
   "scripts": {
     "test": "tsc &&cargo test",
@@ -18,6 +18,10 @@
     "dryrun": "gh workflow run publish.yml -f dryrun=true"
   },
   "author": "François Palmier",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fpalmier/fast-ip-range"
+  },
   "license": "ISC",
   "exports": {
     ".": {
