@@ -1,7 +1,7 @@
 {
   "name": "@fast-ip-range/linux-arm64-gnu",
   "description": "Prebuilt binary package for `fast-ip-range` on `linux-arm64-gnu`.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "os": [
     "linux"
   ],

@@ -1,6 +1,6 @@
 {
   "name": "fast-ip-range",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Fast IP range checking",
   "main": "./lib/index.cjs",
   "scripts": {

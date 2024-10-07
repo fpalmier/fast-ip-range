@@ -1,7 +1,7 @@
 {
   "name": "@fast-ip-range/win32-x64-msvc",
   "description": "Prebuilt binary package for `fast-ip-range` on `win32-x64-msvc`.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "os": [
     "win32"
   ],
